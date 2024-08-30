@@ -19,6 +19,7 @@ Feel free to explore any of my public repositories!
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=flat&logo=go)&nbsp;
+![ThreeJS](https://img.shields.io/badge/-ThreeJS-0D1117?style=flat&logo=threedotjs)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
