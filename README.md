@@ -1,4 +1,4 @@
-<p align="left" style="float: right; padding-top: 7px"> <img src="https://komarev.com/ghpvc/?username=luckramos&color=lightgray" alt="Profile views" /> </p>
+<p align="right" style="float: right; padding-top: 7px"> <img src="https://komarev.com/ghpvc/?username=luckramos&color=lightgray" alt="Profile views" /> </p>
 <h1 align="left">Luck Ramos</h1>
 
 <p>
@@ -12,6 +12,7 @@ Feel free to explore any of my public repositories!
 </p>
 
 <br>
+
 
 ## Technologies I'm confortable with
 
@@ -36,17 +37,12 @@ Feel free to explore any of my public repositories!
 
 ## You can find me on
 
-<a href="https://www.linkedin.com/in/lucas-henrique-ramos-04a746214/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-henrique-ramos-04a746214/" target="_blank" style="text-decoration: none">
   <img align="center" src="https://img.shields.io/badge/-Lucas Ramos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/lukcramos" target="_blank">
+<a href="https://twitter.com/lukcramos" target="_blank" style="text-decoration: none">
  <img align="center" src="https://img.shields.io/badge/-lukcramos-05122A?style=flat&logo=x" alt="x"/>
 </a>
-<a href="https://bsky.app/profile/lukcramos.bsky.social" target="_blank">
+<a href="https://bsky.app/profile/lukcramos.bsky.social" target="_blank" style="text-decoration: none">
  <img align="center" src="https://img.shields.io/badge/-lukcramos-05122A?style=flat&logo=bluesky" alt="bluesky"/>
 </a>
-
-<br>
-
-
-##
