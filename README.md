@@ -1,4 +1,4 @@
-<p align="right" style="float: right; padding-top: 7px"> <img src="https://komarev.com/ghpvc/?username=luckramos&color=lightgray" alt="Profile views" /> </p>
+<p align="right" style="float: right; padding-top: 30px"> <img src="https://komarev.com/ghpvc/?username=luckramos&color=lightgray" alt="Profile views" /> </p>
 <h1 align="left">Luck Ramos</h1>
 
 <p>
