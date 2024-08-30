@@ -24,6 +24,7 @@ Feel free to explore any of my public repositories!
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-0D1117?style=flat&logo=astro)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass)&nbsp;
 ![Less](https://img.shields.io/badge/-Less-0D1117?style=flat&logo=less)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
