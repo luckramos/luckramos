@@ -4,7 +4,7 @@
 <p>
 I write colored text on a black background and hope that it does something—also known as a Software Developer.
 
-Based in 🇧🇷, I'm passionate about software and every process that goes into making it. I've been working in web development for over five years and am currently diving into both DevOps and 3D technologies, such as Three.js, which is a personal passion of mine.
+Based in ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil"), I'm passionate about software and every process that goes into making it. I've been working in web development for over five years and am currently diving into both DevOps and 3D technologies, such as Three.js, which is a personal passion of mine.
 
 I have extensive experience working with various technologies and like to think I pick up new skills quickly. However, my main focus has been on JavaScript (and its many frameworks), Laravel, and Go.
 
