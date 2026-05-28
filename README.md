@@ -1,4 +1,4 @@
-Tech lead, cloud architect, and software developer based in Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png)
+Brazilian tech lead, cloud architect, and software developer ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png)
 
 I really enjoy building software that makes life easier for both me and my team, giving them tools to ship features better and faster. I've been in the industry for over six years, and I'm currently working as a tech lead at [UEEK](https://ueek.digital).
 
